@@ -23,4 +23,4 @@ To use the SQL script, follow these steps:
 
 ## Author
 
-[Alaanoud Alrasheedi]
+[Alanoud Alrasheedi]
